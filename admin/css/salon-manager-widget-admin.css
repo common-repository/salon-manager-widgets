@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+ #submit{
+    font-size:17px!important;    
+    
+    }
+   .h2content{
+    margin:0.5em 0!important;
+    }
+	
+.inputclass{
+	padding:5px 10px!important;
+}
+
+.pcalls{
+	font-weight:600;
+	font-size:15px;
+}
